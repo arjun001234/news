@@ -1,0 +1,29 @@
+.divstyle2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: whitesmoke;
+    flex-direction: column;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.buttonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.buttonstyle2 {
+    border: none;
+    margin-right: 9px;
+    padding: 2px;
+    margin-top: 6px;
+    background-color: whitesmoke;
+}
+.buttonstyle2:focus {
+    outline: none;
+}
+@media only screen and (min-width: 600px) {
+
+}
